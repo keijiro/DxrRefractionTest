@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "com.unity.render-pipelines.high-definition": "15.0.6",
+    "jp.keijiro.metamesh": "1.1.1",
+    "jp.keijiro.metatex": "1.0.4"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
+}
